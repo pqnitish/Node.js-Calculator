@@ -1,0 +1,19 @@
+{
+  "name": "node.js-calculator",
+  "version": "1.0.0",
+  "description": "making calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Node.js-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Node.js-Calculator/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Node.js-Calculator#readme"
+}
